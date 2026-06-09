@@ -11,8 +11,6 @@
   ▶️ Check out my released apps on [Google Play – BROKERS](https://play.google.com/store/apps/developer?id=BROKERS)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwookkim&show_icons=true&theme=radical)
-
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
