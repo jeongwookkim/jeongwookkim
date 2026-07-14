@@ -17,5 +17,4 @@ React · TypeScript · Next.js · JavaScript · Node.js · Express · Tailwind C
 
 ## 🔗 Links
 
-- Portfolio: https://jeongwookkim.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/jeongwookkim
